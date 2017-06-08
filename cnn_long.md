@@ -25,6 +25,8 @@
 # Example
 ![a) Iter 1, b) Iter 2 balanced, c) Iter 2 unbalanced, d) Iter 2 "transfer"](images/unbalanced_example.png)
 
-# Results
-- Still working on it but...
-    - A lot of 0.7 segmentation DSC
+# General results
+![General results](images/long_general.png)
+
+# Lesion size analysis
+![Analysis of the results by lesion size](images/long_lesion_sizes.png)

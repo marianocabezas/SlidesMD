@@ -50,7 +50,7 @@
 	- Move to new paradigms (adversarials, sampling stuff, ensembles, cost functions, etc.)
 	- Explore uncharted waters!
 
-	![Go, go, go!](images/uncharted.jpg){width=30% height=30%}
+	![Go, go, go!](images/uncharted.gif){width=30% height=30%}
 
 # The really important stuff! (I)
 ![WMH - Poster](images/poster_wmh.JPG){width=40% height=40%}
@@ -60,7 +60,7 @@
 ![Our main food resource. Disgusting and mapley!](images/poutine.png){width=50% height=50%}
 
 # The really important stuff! (III)
-![Happy birthday!](images/happy_bday.JPG)
+![Happy birthday!](images/happy_bday.JPG){width=90%, height=90%}
 
 # The really important stuff! (IV)
 - Yeah, right... Ok...

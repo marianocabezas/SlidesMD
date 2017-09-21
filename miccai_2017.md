@@ -1,11 +1,12 @@
 % MICCAI 2017 (some highlights)
 % Mariano Cabezas
 
-# Deep learning is the present (I) - DLMIA
+# Deep learning is the present (I) - DLMIA / BrainLes
 - DLMIA workshop ([proceedings](https://link.springer.com/book/10.1007%2F978-3-319-67558-9))
-	- Cost functions
+	- Cost functions (Wasserstein)
 	![Generalised DSC cost function for multi-class](images/generalised_dsc.png){width=20% height=20%}	
 	- Cool SIEMENS talk
+	- 4th iSeg([website](http://iseg2017.web.unc.edu/results/)), 4th WMH ([website](http://wmh.isi.uu.nl/results/))
 
 # Deep learning is the present (II) - Curriculum learning (I)
 - From easy samples to harder ones ([CASED: Curriculum Adaptive Sampling for Extreme Data Imbalance, A. Jesson et al.](https://link.springer.com/chapter/10.1007/978-3-319-66179-7_73))
@@ -50,7 +51,7 @@
 	- Move to new paradigms (adversarials, sampling stuff, ensembles, cost functions, etc.)
 	- Explore uncharted waters!
 
-	![Go, go, go!](images/uncharted.gif){width=30% height=30%}
+	![Go, go, go!](images/uncharted.jpg){width=30% height=30%}
 
 # The really important stuff! (I)
 ![WMH - Poster](images/poster_wmh.JPG){width=40% height=40%}
@@ -60,7 +61,7 @@
 ![Our main food resource. Disgusting and mapley!](images/poutine.png){width=50% height=50%}
 
 # The really important stuff! (III)
-![Happy birthday!](images/happy_bday.JPG){width=90%, height=90%}
+![Happy birthday!](images/happy_bday.JPG)
 
 # The really important stuff! (IV)
 - Yeah, right... Ok...
